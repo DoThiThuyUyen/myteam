@@ -10,5 +10,11 @@ public class ChoiXucXac {
         XucXac xx1= new XucXac(soMat);
         int kq=xx1.doXucXac();
         System.out.println("Ket qua do xuc xac la: "+kq);
+        System.out.println("Ket qua do xuc xac la: "+kq);
+        System.out.println("Ket qua do xuc xac la: "+kq);
+        System.out.println("Ket qua do xuc xac la: "+kq);
+
+
+
 }
 }
